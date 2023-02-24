@@ -11,7 +11,7 @@ https://lab.coodesh.com/deborahjori13/data-challenge-20221121
 
 **1º -** Para utilizar o notebook, você deve possuir uma conta Google para utilizar o Google Colab e Google Drive
 
-**2º -** Salve os arquivos amazon_prime_titles.csv e netflix_titles.csv contidos aqui -> https://github.com/deborahjori/Data-Challenge-20221121/tree/main/data em algum diretório no Google Drive
+**2º -** Salve os arquivos amazon_prime_titles.csv  ->  https://drive.google.com/file/d/1GWpxR86JLnITv2cFNd3K9kms2bw73JLn/view?usp=share_link e netflix_titles.csv  -> https://drive.google.com/file/d/1FovDGcU6HOr2eojJMD_Y5fXt22pxk7c1/view?usp=share_link em algum diretório no Google Drive
 
 **3º -** Acesse a URL: https://colab.research.google.com/
 
