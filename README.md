@@ -11,7 +11,7 @@ Stack: Google Colab e Python (bibliotecas utilizadas pandas e datetime)
 
 3º - Acesse a URL: https://colab.research.google.com/
 
-4º - Import o arquivo Challenge_Coodesh_Deborah_Jori.ipynb contidos aqui ->  https://github.com/deborahjori/Data-Challenge-20221121/blob/main/Challenge_Coodesh_Deborah_Jori.ipynb
+4º - Import o arquivo Challenge_Coodesh_Deborah_Jori.ipynb contidos aqui -> https://github.com/deborahjori/Data-Challenge-20221121/blob/main/Challenge_Coodesh_Deborah_Jori.ipynb
 
 ![image](https://user-images.githubusercontent.com/112877982/221062657-48278f43-7cc3-4c18-94d0-0d5f823fefcb.png)
 
