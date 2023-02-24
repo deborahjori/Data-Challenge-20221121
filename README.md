@@ -1,4 +1,6 @@
-# Data-Challenge-20221121
+# Data-Challenge-20221121 
+This is a challenge by Coodesh
+
 
 Projeto de análise de conteúdos das plataformas de streaming Netflix e Amazon Prime
 
@@ -24,4 +26,3 @@ Stack: Google Colab e Python (bibliotecas utilizadas pandas e datetime)
 
 https://lab.coodesh.com/deborahjori13/data-challenge-20221121
 
-This is a challenge by Coodesh
