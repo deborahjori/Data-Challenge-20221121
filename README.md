@@ -7,7 +7,7 @@ Stack: Google Colab e Python
 
 1º - Para utilizar o notebook, você deve possuir uma conta Google para utilizar o Google Colab e Google Drive
 
-2º - Salve os arquivos amazon_prime_titles.csv e netflix_titles.csv em algum diretório no Google Drive
+2º - Salve os arquivos amazon_prime_titles.csv e netflix_titles.csv contidos aqui -> https://github.com/deborahjori/Data-Challenge-20221121/tree/main/data em algum diretório no Google Drive
 
 3º - Acesse a URL: https://colab.research.google.com/
 
