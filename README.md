@@ -2,7 +2,7 @@
 
 Projeto de análise de conteúdos das plataformas de streaming Netflix e Amazon Prime
 
-Stack: Google Colab e Python
+Stack: Google Colab e Python (bibliotecas utilizadas pandas e datetime)
 
 
 1º - Para utilizar o notebook, você deve possuir uma conta Google para utilizar o Google Colab e Google Drive
