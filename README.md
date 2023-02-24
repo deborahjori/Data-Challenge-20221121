@@ -11,11 +11,12 @@ https://lab.coodesh.com/deborahjori13/data-challenge-20221121
 
 **1º -** Para utilizar o notebook, você deve possuir uma conta Google para utilizar o Google Colab e Google Drive
 
-**2º -** Salve os arquivos amazon_prime_titles.csv  ->  https://drive.google.com/file/d/1GWpxR86JLnITv2cFNd3K9kms2bw73JLn/view?usp=share_link e netflix_titles.csv  -> https://drive.google.com/file/d/1FovDGcU6HOr2eojJMD_Y5fXt22pxk7c1/view?usp=share_link em algum diretório no Google Drive
+**2º -** Faça download do repositório e salve em algum diretório no Google Drive
+![image](https://user-images.githubusercontent.com/112877982/221069824-a503d72d-7088-4dfa-96bf-d3281a4fcd7e.png)
 
 **3º -** Acesse a URL: https://colab.research.google.com/
 
-**4º -** Import o arquivo Challenge_Coodesh_Deborah_Jori.ipynb contidos aqui -> https://github.com/deborahjori/Data-Challenge-20221121/blob/main/Challenge_Coodesh_Deborah_Jori.ipynb
+**4º -** Import o arquivo Challenge_Coodesh_Deborah_Jori.ipynb (Localizado no repositório)
 
 ![image](https://user-images.githubusercontent.com/112877982/221062657-48278f43-7cc3-4c18-94d0-0d5f823fefcb.png)
 
