@@ -2,6 +2,8 @@
 This is a challenge by Coodesh
 https://lab.coodesh.com/deborahjori13/data-challenge-20221121
 
+**Apresentação:** https://www.loom.com/embed/a5ae7f909ae640f5b669d0b5d436fde5
+
 
 **Projeto de análise de conteúdos das plataformas de streaming Netflix e Amazon Prime**
 
